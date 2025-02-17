@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore data folder unless it has a .keep file in it
+data/*
+!data/.keep
+.env
+
 # C extensions
 *.so
 
