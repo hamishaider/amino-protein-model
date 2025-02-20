@@ -2,6 +2,6 @@
 Testing some amino protein model stuff
 
 ## ENV FILE
-CONDA_ENV=
-DATA_DIR=
-DATA_PREFIX=
+CONDA_ENV=  
+DATA_DIR=  
+DATA_PREFIX=  
